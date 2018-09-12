@@ -1,8 +1,12 @@
 day on
 
 dddde
+<<<<<<< HEAD
 11111
 
 bug
 
 2222
+=======
+11111
+>>>>>>> parent of cc1f134... Merge pull request #1 from 1078158952/bug
